@@ -1,0 +1,8 @@
+.DS_Store
+coverage
+pkg
+.bundle
+.ruby-version
+*emfile.lock
+.idea
+textris-*.gem
